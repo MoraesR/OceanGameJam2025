@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/_RodrigoMoraes/_Projects/Unreal_Dev_game/OceanGameJam2025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"D:/_RodrigoMoraes/_projects/Unreal_Dev_game/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/_RodrigoMoraes/_projects/Unreal_Dev_game/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/_RodrigoMoraes/_projects/Unreal_Dev_game/MyProject2/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"D:/_RodrigoMoraes/_projects/Unreal_Dev_game/MyProject2/Content/BP_Obstacle.uasset",
+				"D:/_RodrigoMoraes/_projects/Unreal_Dev_game/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/V5/I11PMEJ6ZFIVMS8YEZWZ7X.uasset",
+				"D:/_RodrigoMoraes/_projects/Unreal_Dev_game/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SP/W8O25MYVVLGDAR09L5K3NM.uasset",
+				"D:/_RodrigoMoraes/_projects/Unreal_Dev_game/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
